@@ -23,4 +23,4 @@ recognition for her work, and the consumer will see how their purchase made a di
 
 This repository contains the base solidity code for minting NFTs and the code for the DApp that uploads individuals' information to the blockchain. The design emphasises simplicity and ease of use, ensuring that individuals with minimal knowledge can utilise the web application. Future improvement plans include testing the website with the women as phase 2, making the website smartphone-compatible and adding regional languages to further reduce the need for an instructor to assist workers in inputting their data.
 
-Collaborators: naqiyahdhariwala@hotmail.com, krinashah149@gmail.com
+Collaborators: Nakiyah Dhariwala: naqiyahdhariwala@hotmail.com, Krina Shah: krinashah149@gmail.com
