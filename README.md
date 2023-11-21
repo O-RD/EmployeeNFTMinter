@@ -21,6 +21,6 @@ In order to take control of their information, each worker will first have to se
 For phase 1, the hyperlink that stores Sunita's information and her production of red skirts will be converted into a QR code and placed on the tag of that red skirt. A consumer who purchases the red skirt can simply scan the QR code with their phone and be redirected to the website that stores the information Sunita included in her NFT. This will allow Sunita to gain more 
 recognition for her work, and the consumer will see how their purchase made a difference in her life and income.
 
-Collaborators: naqiyahdhariwala@hotmail.com, krinashah149@gmail.com
-
 This repository contains the base solidity code for minting NFTs and the code for the DApp that uploads individuals' information to the blockchain. The design emphasises simplicity and ease of use, ensuring that individuals with minimal knowledge can utilise the web application. Future improvement plans include testing the website with the women as phase 2, making the website smartphone-compatible and adding regional languages to further reduce the need for an instructor to assist workers in inputting their data.
+
+Collaborators: naqiyahdhariwala@hotmail.com, krinashah149@gmail.com
